@@ -1,2 +1,2 @@
-# twitter_sentimentAnlysis_transfertLearning
+# twitter_sentimentAnalysis_transfertLearning
 Projet academique de NLP:classification de twitter 
